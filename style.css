@@ -90,10 +90,6 @@ main>:first-child img {
     color: white;
 }
 
-.content button a {
-    text-decoration: none;
-}
-
 /* Footer */
 footer {
     height: 40px;
