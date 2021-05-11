@@ -8,8 +8,8 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
     - [Links](#links)
+    - [Screenshot](#screenshot)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
 
@@ -23,13 +23,14 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-
 ### Links
 
 - Solution URL: [Github](https://github.com/summermmg/Huddle-landing-page-with-a-single-introductory-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://summermmg.github.io/Huddle-landing-page-with-a-single-introductory-section/)
+ 
+### Screenshot
+<div align="center"><img src="./images/screenshot/Screenshot_phone.png" /></div>
+<div align="center"><img src="./images/screenshot/Screenshot_desktop.png" /></div>
 
 ### Built with
 

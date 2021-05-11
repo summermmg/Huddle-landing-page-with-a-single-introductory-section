@@ -82,11 +82,16 @@ main>:first-child img {
 
 .content button {
     color: var(--violet);
+    cursor: pointer;
 }
 
 .content button:hover {
     background-color: var(--soft-magenta);
     color: white;
+}
+
+.content button a {
+    text-decoration: none;
 }
 
 /* Footer */
@@ -105,6 +110,7 @@ footer {
 .icons li  {
     font-size: 1.5rem;
     margin: 0 10px;
+    cursor: pointer;
 }
 
 .icons li:hover {
